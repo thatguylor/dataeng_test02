@@ -2,10 +2,10 @@ import pandas as pd
 import numpy as np
 import re
 
-path = r'C:\Users\yaoz\Desktop\dataeng_test\Section_1_Data_Pipelines\Output.csv' #Change path here to write to csv
+path = r'C:\Users\yaoz\Desktop\dataeng_test02\Section_1_Data_Pipelines\Output.csv' #Change path here to write to csv
 
-data = pd.read_csv(r"C:\Users\yaoz\Desktop\dataeng_test\dataset1.csv")
-data2 = pd.read_csv(r"C:\Users\yaoz\Desktop\dataeng_test\dataset2.csv")
+data = pd.read_csv(r"C:\Users\yaoz\Desktop\dataeng_test02\dataset1.csv")
+data2 = pd.read_csv(r"C:\Users\yaoz\Desktop\dataeng_test02\dataset2.csv")
 df = pd.concat([data,data2])
 
 

@@ -3,6 +3,7 @@
 - PPT of DB Schema is in this directory
 - SQL execution of DDL is in this directory 
 - Dockerfile is in this directory
+- Please contact me at chanyaokuan@gmail.com if you are having trouble building the container following these steps.
 
 # How to Build? - Very Impt (Two Ways)
     1. Pull from docker hub 

@@ -12,4 +12,7 @@
     * API Data contains erroneous values; Head there to find out what ive discovered!
     * Plotted different COVID 19 Charts for Singapore
     * Saved them into /charts 
-    * How to use: ensure you have the basic python libraries and you are good to go.  
+    * How to use: ensure you have the basic python libraries and you are good to go.
+- charts:
+    * Contains different screenshots from the notebook 
+    * saved as .png 
